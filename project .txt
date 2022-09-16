@@ -1,0 +1,10 @@
+Assisgnment 
+
+Write a python script with the help of sqlite3 and tkinter Libraries.
+with the help of this libraries prepare an Banking management students holder(new customer detail) page that accepts the below details.
+
+Hint :
+
+create a Customer DB using sqlite and Desing a GUI that accepts the customer details with the help of widgets.
+
+
